@@ -1,10 +1,16 @@
 _repo: East-West-Trade-Trends-Mutual-Defense-Assistance-Control-Act-of-1951-the-Battle-Act-Fourth-Re__47437
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47437-h/images/cover.jpg
 creator:
   author:
     agent_name: Stassen, Harold E.
     gutenberg_agent_id: '44314'
     url: http://www.gutenberg.org/2009/agents/44314
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47437#East-West-Trade-Trends-Mutual-Defense-Assistance-Control-Act-of-1951-the-Battle-Act-Fourth-Re_
 gutenberg_issued: '2014-11-23'
 gutenberg_type: Text
 identifiers:
